@@ -1,2 +1,4 @@
 # git_test
-For fun
+
+Starting point of my life :)
+Hello future me!
